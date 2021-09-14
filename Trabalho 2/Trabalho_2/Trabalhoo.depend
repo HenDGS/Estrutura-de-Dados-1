@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1616390779 source:c:\users\henri\desktop\2020 - 1\estrutura de dados 1\trabalhoo\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<new>
+	<string.h>
+	<time.h>
+	<fstream>
+	<funcoes.h>
+
+1616391249 c:\users\henri\desktop\2020 - 1\estrutura de dados 1\trabalhoo\include\funcoes.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<new>
+	<string.h>
+	<time.h>
+	<fstream>
+	<funcoes.h>
+
+1616391249 source:c:\users\henri\desktop\2020 - 1\estrutura de dados 1\trabalhoo\src\funcoes.cpp
+	"funcoes.h"
+
+1616400177 source:c:\users\henri\desktop\2020 - 1\estrutura de dados 1\trabalho_1\src\funcoes.cpp
+	"funcoes.h"
+
+1616400122 c:\users\henri\desktop\2020 - 1\estrutura de dados 1\trabalho_1\include\funcoes.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<new>
+	<string.h>
+	<time.h>
+	<fstream>
+	<funcoes.h>
+
+1616398198 source:c:\users\henri\desktop\2020 - 1\estrutura de dados 1\trabalho_1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<new>
+	<string.h>
+	<time.h>
+	<fstream>
+	<funcoes.h>
+
+1616433264 source:c:\users\henri\desktop\trabalho\estruturafinal\estruturafinal\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<new>
+	<string.h>
+	<time.h>
+	<fstream>
+	"listasequencial.h"
+	"listaencadeada.h"
+
+1616400122 c:\users\henri\desktop\trabalho\estruturafinal\estruturafinal\include\funcoes.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<new>
+	<string.h>
+	<time.h>
+	<fstream>
+	<funcoes.h>
+
+1616400177 source:c:\users\henri\desktop\trabalho\estruturafinal\estruturafinal\src\funcoes.cpp
+	"funcoes.h"
+
+1616433251 source:c:\users\henri\desktop\trabalho\estruturafinal\estruturafinal\src\listasequencial.cpp
+	"listasequencial.h"
+
+1616433251 c:\users\henri\desktop\trabalho\estruturafinal\estruturafinal\include\listasequencial.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<new>
+	<string.h>
+	<time.h>
+	<fstream>
+	<string>
+
+1616425990 c:\users\henri\desktop\trabalho\estruturafinal\estruturafinal\include\listaencadeada.h
+	"listasequencial.h"
+
+1616433251 source:c:\users\henri\desktop\trabalho\estruturafinal\estruturafinal\src\listaencadeada.cpp
+	"listaencadeada.h"
+
+1620067325 source:c:\users\henri\desktop\trabalho\trabalho_1\trabalho_1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<new>
+	<string.h>
+	<time.h>
+	<fstream>
+	"listasequencial.h"
+	"listaencadeada.h"
+	"sort.h"
+
+1620068197 c:\users\henri\desktop\trabalho\trabalho_1\trabalho_1\include\listasequencial.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<new>
+	<string.h>
+	<time.h>
+	<fstream>
+	<string>
+
+1616441423 c:\users\henri\desktop\trabalho\trabalho_1\trabalho_1\include\listaencadeada.h
+	"listasequencial.h"
+
+1620070120 source:c:\users\henri\desktop\trabalho\trabalho_1\trabalho_1\src\listaencadeada.cpp
+	"listaencadeada.h"
+	"sort.h"
+
+1620070606 source:c:\users\henri\desktop\trabalho\trabalho_1\trabalho_1\src\listasequencial.cpp
+	"listasequencial.h"
+	"sort.h"
+
+1620070407 c:\users\henri\desktop\trabalho\trabalho_1\trabalho_1\include\sort.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"listaencadeada.h"
+
+1620071572 source:c:\users\henri\desktop\trabalho\trabalho_1\trabalho_1\src\sort.cpp
+	"sort.h"
+

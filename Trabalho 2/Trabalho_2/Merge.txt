@@ -1,0 +1,3 @@
+Merge sort é um algoritmo simples, que usa do metodo de conquistar e dividir.
+
+Ele divide a lista até chegar em unidades de 1, e depois vai juntando os dados até montar a lista ordenada novamente.
